@@ -1,0 +1,48 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+input[type="text"] {
+  width: 300px;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  outline: none;
+  transition: border-color 0.2s ease;
+}
+
+input[type="text"]:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+.suggestions {
+  width: 300px;
+  margin: 10px auto;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+  max-height: 200px;
+  overflow-y: auto;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.suggestions p {
+  padding: 10px;
+  margin: 0;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.suggestions p:hover {
+  background-color: #f0f0f0;
+}
