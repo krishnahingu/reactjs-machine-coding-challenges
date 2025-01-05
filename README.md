@@ -43,32 +43,10 @@ This repository contains a collection of ReactJS machine coding questions with s
 | grid-lights                   | Interactive grid of lights that can be toggled.                               |
 | tic-tac-toe                | A multiplayer tic-tac-toe game.                               |
 
-## Installation
-To get started with these projects, clone the repository and navigate to the project folder.
 
-```sh
-git clone https://github.com/sanchit0496/reactjs_machine_coding_challenges.git
-cd repository-name
-# Navigate to individual project folders for specific instructions
-```
-
-## Usage
-Each project may have its own usage instructions. Navigate to the specific project folder to find a detailed README or usage guide.
-
-Example for a specific project:
-```sh
-cd weather-app
-# Follow the instructions in the project folder
-```
-
-## Contributing
-We welcome contributions from the open-source community. To contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
+https://github.com/NikhilJHA01/Machine-Coding-Round/tree/main
+https://github.com/sanchit0496/reactjs-machine-coding-challenges/tree/main
+https://github.com/piyush-eon/frontend-interview-questions/tree/master
 
 ## License
 This repository is licensed under the MIT License
