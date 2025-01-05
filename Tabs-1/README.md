@@ -1,2 +1,0 @@
-# Tabs
-Created with CodeSandbox

@@ -1,2 +1,0 @@
-# useTheme
-Created with CodeSandbox

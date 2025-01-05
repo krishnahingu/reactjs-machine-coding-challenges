@@ -1,2 +1,0 @@
-# pagination
-Created with CodeSandbox

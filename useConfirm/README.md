@@ -1,2 +1,0 @@
-# useConfirm
-Created with CodeSandbox

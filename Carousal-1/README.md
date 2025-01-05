@@ -1,2 +1,0 @@
-# Carousal
-Created with CodeSandbox

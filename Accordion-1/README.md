@@ -1,2 +1,0 @@
-# Accordion
-Created with CodeSandbox
